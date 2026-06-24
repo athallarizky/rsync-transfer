@@ -1,5 +1,7 @@
 # rsync-transfer
 
+<img width="1501" height="803" alt="image" src="https://github.com/user-attachments/assets/cc1607f0-3bbf-432a-b8d2-5269ba25f209" />
+
 Reusable data transfer script using rsync. Resumable, progress bars, space checks, trailing-space fix, logging.
 
 ## Usage
